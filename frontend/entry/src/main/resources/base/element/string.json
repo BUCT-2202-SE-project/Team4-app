@@ -1,0 +1,45 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "entry_MainAbility",
+      "value": "掌上博物馆"
+    },
+    {
+      "name": "app_name",
+      "value": "掌上博物馆"
+    },
+    {
+      "name": "artifacts_title",
+      "value": "文物展示"
+    },
+    {
+      "name": "internet_permission_reason",
+      "value": "应用需要联网获取文物数据"
+    },
+    {
+      "name": "read_media_permission_reason",
+      "value": "读取媒体内容以进行图像搜索"
+    },
+    {
+      "name": "media_location_permission_reason",
+      "value": "读取媒体文件位置信息"
+    },
+    {
+      "name": "write_media_permission_reason",
+      "value": "保存临时媒体文件"
+    }
+
+    ]
+}
